@@ -18,7 +18,7 @@
     {
       "type": "queue",
       "name": "outputQueueItem",
-      "queueName": "outqueue",
+      "queueName": "%queueName%",
       "connection": "",
       "direction": "out"
     }
